@@ -19,15 +19,11 @@ To run these exercises, you'll need to have Dart installed. You can follow the o
 Clone this repository and navigate to the folder of each exercise to get started.
 
 ```bash
-git clone https://github.com/your-username/dart-beginner-exercises.git
+git clone https://github.com/MuhammadHuzaifa0/dart-programs-practice.git
 cd dart-beginner-exercises
 ```
 
 Each exercise can be executed by running the Dart file directly:
-
-```bash
-dart exercise_file.dart
-```
 
 ## Exercise List
 
